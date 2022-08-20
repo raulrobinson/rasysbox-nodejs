@@ -63,7 +63,7 @@
     "socket.io-redis": "~1.0.0",
     "uuid": "^7.0.3",
     "validator": "4.2.1",
-    "unirest": "git+https://github.com/raulrobinson/rasysbox-nodejs#master"
+    "unirest": "git+https://git@github.com/raulrobinson/unirest-nodejs#master"
   },
   "devDependencies": {
     "chai": "3.4.0",
@@ -74,7 +74,7 @@
   "author": "Raul Bolivar",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raulrobinson"
+    "url": "https://github.com/raulrobinson/rasysbox-nodejs"
   },
   "license": "ISC"
 }
